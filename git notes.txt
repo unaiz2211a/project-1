@@ -1,0 +1,11 @@
+step1  git status
+step2  git --version
+step3  git init
+step4  git add . (for adding all files)
+step5  git commit -m "your message."
+step6  git log
+
+
+git config --global user.email "your email"
+
+git config --global user.name "your name"
